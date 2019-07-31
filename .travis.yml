@@ -2,7 +2,7 @@ after_success:
 - coveralls
 addons:
   firefox: "latest"
-install: 
+install:
 - pip install coveralls
 - make bin/test
 env: 

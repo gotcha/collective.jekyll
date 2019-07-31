@@ -5,9 +5,15 @@ Changelog
 0.4.1 (unreleased)
 ------------------
 
+- Fix plone.protect error
+  [laulaz]
+
 - Renaming based on EN translation
   This also fixes tests on local machine
   [laulaz]
+
+- Fix controlpanel in Plone 5.
+  [pbauer]
 
 
 0.4.0 (2018-06-25)
